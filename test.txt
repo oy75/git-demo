@@ -9,3 +9,4 @@ string 6
 ----- will be reverted
 
 commit 1 in branch feature
+commit 2 in branch feature
